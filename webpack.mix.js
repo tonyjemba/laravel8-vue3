@@ -18,7 +18,7 @@ mix.js('resources/js/app.js', 'public/js')
         open: false,
         })
     .postCss('resources/css/app.css', 'public/css', [
-        //
+        require("tailwindcss")
     ]);
 
     
