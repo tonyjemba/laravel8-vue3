@@ -5,7 +5,7 @@
   </div>
   <div>
     <div class="text-xl font-medium text-black">Chrome</div>
-    <p class="text-gray-500">You have a new message!</p>
+    <p class="text-gray-500">You have a new message now!</p>
   </div>
 </div>
 </template>
