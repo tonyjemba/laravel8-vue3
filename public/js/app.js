@@ -19194,7 +19194,7 @@ var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
   "class": "text-xl font-medium text-black"
 }, "Chrome"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
   "class": "text-gray-500"
-}, "You have a new message!")], -1
+}, "You have a new message Dude!")], -1
 /* HOISTED */
 );
 
